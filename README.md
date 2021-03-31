@@ -5,6 +5,8 @@ YdKit 是一组功能丰富的 Android 通用组件。
 
 * [LogKit](https://github.com/ydstar/LogKit) — 轻量级的 Android 日志系统。
 * [RestfulKit](https://github.com/ydstar/RestfulKit) — 简洁但不简单的 Android 网络组件库。
+* [StorageKit](https://github.com/ydstar/StorageKit) — 高性能 Android 离线缓存框架。
+* [ExecutorKit](https://github.com/ydstar/ExecutorKit) — 简洁易用的 Android 多线程操作框架。
 * [CrashKit](https://github.com/ydstar/CrashKit) — 简洁易用的 Android Crash日志捕捉组件。
 * [PermissionKit](https://github.com/ydstar/PermissionKit) — 简洁易用的 Android 权限请求组件。
 * [NavigationBarKit](https://github.com/ydstar/NavigationBarKit) — 简洁易用的 Android 顶部导航条组件。
@@ -12,10 +14,9 @@ YdKit 是一组功能丰富的 Android 通用组件。
 * [AdapterKit](https://github.com/ydstar/AdapterKit) — 简洁易用的 Android 列表组件。
 * [BannerKit](https://github.com/ydstar/BannerKit) — 简洁易用的 Android 无限轮播图组件。
 * [TabBottomKit](https://github.com/ydstar/TabBottomKit) — 简洁易用的 Android 底部导航组件。
-
 ## 效果预览
 
-<img src="https://github.com/ydstar/NavigationBarKit/blob/main/preview/show.jpeg">
+<img src="https://github.com/ydstar/NavigationBarKit/blob/main/preview/show.jpeg" width="250px">
 
 顶部导航条组件
 
