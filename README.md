@@ -29,8 +29,8 @@ dependencies {
 ```
 
 ## 使用方法
-
-创建style,demo中提供了defaultStyle
+#### 关于矢量图标的制作和使用,可以参考[矢量字体图标制作并使用](https://www.jianshu.com/p/432d3b23384c)
+#### 1.创建style,demo中提供了defaultStyle
 ```java
     <!-- 默认属性配置-->
     <style name="NavigationBarKitDefaultStyle">
@@ -60,15 +60,15 @@ dependencies {
     </style>
 ```
 
-该NavigationBarKitDefaultStyle可以直接定义在AppTheme中
+#### 该NavigationBarKitDefaultStyle可以直接定义在AppTheme中
 ```java
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="NavigationBarKitStyle">@style/NavigationBarKitDefaultStyle</item>
     </style>
 ```
 
-如果在布局中再次添加 style="@style/NavigationBarKitDefaultStyle",则会覆盖掉AppTheme定义的style
-
+#### 如果在布局中再次添加 style="@style/NavigationBarKitDefaultStyle",则会覆盖掉AppTheme定义的style
+#### 2.在布局中添加
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
