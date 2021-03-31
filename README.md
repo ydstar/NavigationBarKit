@@ -61,14 +61,14 @@ dependencies {
     </style>
 ```
 
-#### 该NavigationBarKitDefaultStyle可以直接定义在AppTheme中
+#### 该NavigationBarKitDefaultStyle可以直接定义在AppTheme中,这样就不用在页面中设置style了
 ```java
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="NavigationBarKitStyle">@style/NavigationBarKitDefaultStyle</item>
-    </style>
+<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="NavigationBarKitStyle">@style/NavigationBarKitDefaultStyle</item>
+</style>
 ```
 
-#### 如果在布局中再次添加 style="@style/NavigationBarKitDefaultStyle",则会覆盖掉AppTheme定义的style
+#### 如果在布局中再次添加 style="@style/NavigationBarKitDefaultStyle",则会覆盖掉AppTheme定义的style(特殊页面可以特殊设置)
 #### 2.在布局中添加
 ```java
 <?xml version="1.0" encoding="utf-8"?>
