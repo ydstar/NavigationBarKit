@@ -1,0 +1,44 @@
+{
+  "id": "2457180",
+  "name": "navigationbarkit",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "554424",
+      "name": "定位",
+      "font_class": "iconset0391",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "15974014",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "17199070",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "17868223",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "19233230",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="NavigationBarKitStyle">@style/NavigationBarKitDefaultStyle</item>
+    </style>
+
+
+    <!-- 默认属性配置-->
+    <style name="NavigationBarKitDefaultStyle">
+        <!-- 返回按钮文本,大小,颜色(使用iconfont)-->
+        <item name="nav_icon">@string/back</item>
+        <item name="nav_icon_size">20sp</item>
+        <item name="nav_icon_color">#000000</item>
+
+        <!-- 中间主标题的大小和颜色,以及出现副标题时主标题的大小-->
+        <item name="title_text_size">18sp</item>
+        <item name="title_text_color">#000000</item>
+        <item name="title_text_size_with_subTitle">16sp</item>
+
+        <!-- 副标题大小颜色-->
+        <item name="subTitle_text_size">14sp</item>
+        <item name="subTitle_text_color">#717882</item>
+
+        <!-- 添加的按钮的大小颜色(使用iconfont)-->
+        <item name="text_btn_text_size">16sp</item>
+        <item name="text_btn_text_color">#333333</item>
+
+        <!-- 按钮的横向内间距-->
+        <item name="hor_padding">8dp</item>
+        <!-- 底部的横线-->
+        <item name="nav_line_color">#eeeeee</item>
+        <item name="nav_line_height">2px</item>
+    </style>
+
+
+</resources>

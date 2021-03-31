@@ -1,0 +1,3 @@
+include ':navigationbar-kit'
+include ':app'
+rootProject.name = "NavigationBarKit"

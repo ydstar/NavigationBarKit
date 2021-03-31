@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="id_left_btn1" />
+    <integer name="id_right_btn1" />
+    <integer name="id_right_btn2" />
+    <integer name="id_right_btn3" />
+
+</resources>

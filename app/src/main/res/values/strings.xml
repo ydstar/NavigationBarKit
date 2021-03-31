@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationBarKit</string>
+
+    <string name="back">&#xe622;</string>
+
+    <string name="location">&#xe70e;</string>
+    <string name="favorite">&#xe602;</string>
+
+    <string name="dianzan">&#xe601;</string>
+    <string name="share">&#xe603;</string>
+</resources>
